@@ -28,7 +28,7 @@
         <div class="col-lg-2"></div>
         <div class="col-lg-4"  >
             <div class="card" style="width: 18rem;">
-                <img src="img/maa.jpg" class="card-img-top" alt="...">
+                <img src="maa.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">NAA of Azerbaijan</h5>
                    
@@ -37,7 +37,7 @@
               </div>
         </div>
         <div class="col-lg-4"  > <div class="card" style="width: 18rem;">
-            <img id="sfw" src="img/sfw2.jpg" class="card-img-top" alt="...">
+            <img id="sfw" src="sfw2.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Socar Foster Wheeler Engineering Company LLT</h5>
                

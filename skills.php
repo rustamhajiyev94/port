@@ -29,34 +29,34 @@
     <div class="row " id="second">
         <div class="col-lg-2 ">
             <div class="card" style="width: 10rem;height:10rem">
-                <img class="card-img-top " src="img/HTML5.png" alt="HTML5">
+                <img class="card-img-top " src="HTML5.png" alt="HTML5">
                
               </div>
         </div>
         <div class="col-lg-2"> <div class="card" style="width: 10rem;height:10rem">
-            <img class="card-img-top" src="img/CSS3.png" alt="CSS3">
+            <img class="card-img-top" src="CSS3.png" alt="CSS3">
         
           </div></div>
         <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-            <img id="php" class="card-img-top" src="img/php.png" alt="php">
+            <img id="php" class="card-img-top" src="php.png" alt="php">
            
           </div></div>
         <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-            <img class="card-img-top" src="img/bootstrap.jpg" alt="Bootstrap">
+            <img class="card-img-top" src="bootstrap.jpg" alt="Bootstrap">
            
           </div></div>
 
 
           <div class="col-lg-2">
             <div class="card" style="width: 10rem;height:10rem">
-                <img class="card-img-top" src="img/js.png" alt="Javascript">
+                <img class="card-img-top" src="js.png" alt="Javascript">
                
               </div>
         </div>
         
            
           <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-            <img id="json" class="card-img-top" src="img/json-logo.png
+            <img id="json" class="card-img-top" src="json-logo.png
             " alt="Json">
            
           </div></div>
@@ -67,28 +67,28 @@
          
 
           <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-            <img class="card-img-top" src="img/Jquery.webp
+            <img class="card-img-top" src="Jquery.webp
             " alt="Jquery">
            
           </div></div>
           
           
           <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-            <img id="ajax" class="card-img-top" src="img/ajax.jpg
+            <img id="ajax" class="card-img-top" src="ajax.jpg
             " alt="AJAX">
           
 
         </div></div>
 
         <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-          <img class="card-img-top" src="img/angular.png
+          <img class="card-img-top" src="angular.png
           " alt="AngularJS">
       </div></div>
 
 
 
         <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-          <img id="sql"class="card-img-top" src="img/SQL.png
+          <img id="sql"class="card-img-top" src="SQL.png
           " alt="SQL">
         
 
@@ -96,7 +96,7 @@
 
 
         <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-          <img class="card-img-top" src="img/wordpress.png" alt="Wordpress">
+          <img class="card-img-top" src="wordpress.png" alt="Wordpress">
          
         </div></div>
 
@@ -105,7 +105,7 @@
 
 
         <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-          <img class="card-img-top" src="img/java.png
+          <img class="card-img-top" src="java.png
           " alt="Java">
 
           
@@ -119,35 +119,35 @@
          
 
       <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-        <img class="card-img-top" src="img/python.png
+        <img class="card-img-top" src="python.png
         " alt="Python">
        
       </div></div>
       
       
       <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-        <img  class="card-img-top" src="img/c.webp
+        <img  class="card-img-top" src="c.webp
         " alt="C">
       
 
     </div></div>
 
     <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-      <img class="card-img-top" src="img/xml.webp
+      <img class="card-img-top" src="xml.webp
       " alt="XML">
   </div></div>
 
 
 
     <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-      <img class="card-img-top" src="img/sass.png" alt="SASS">
+      <img class="card-img-top" src="sass.png" alt="SASS">
     
 
   </div></div>
 
 
     <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-      <img id="ard" class="card-img-top" src="img/arduino.png" alt="arduino">
+      <img id="ard" class="card-img-top" src="arduino.png" alt="arduino">
      
     </div></div>
 
@@ -156,7 +156,7 @@
 
 
     <div class="col-lg-2"><div class="card" style="width: 10rem;height:10rem">
-      <img class="card-img-top" src="img/Android_logo_2019.png" alt="android">
+      <img class="card-img-top" src="Android_logo_2019.png" alt="android">
 
       
    
