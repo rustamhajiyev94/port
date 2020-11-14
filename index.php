@@ -10,19 +10,19 @@
 </head>
 <body>
     <div class="row" id="first">
-       <div class="col-lg-7"></div>
-       <div class="col-lg-5">
+       <div class="col-xs-7 col-sm-7 col-lg-7"></div>
+       <div class="col-xs-5 col-sm-5 col-lg-5">
              <div class="row">
-                 <div class="col-lg-3"></div>
-            <div class="col-lg-3"><a  href="index.php" ><div id="one">Resume</div></a> </div>
-            <div class="col-lg-3"><a  href="skills.php" ><div id="two">Skills</div></a> </div>
-            <div class="col-lg-3"><a  href="portfolio.php" ><div id="three">Portfolio</div></a>  </div>
+                 <div class="col-xs-3 col-sm-3 col-lg-3"></div>
+            <div class="col-xs-3 col-sm-3 col-lg-3"><a  href="index.php" ><div id="one">Resume</div></a> </div>
+            <div class="col-xs-3 col-sm-3 col-lg-3"><a  href="skills.php" ><div id="two">Skills</div></a> </div>
+            <div class="col-xs-3 col-sm-3 col-lg-3"><a  href="portfolio.php" ><div id="three">Portfolio</div></a>  </div>
              
         </div>
     </div>
     <div class="row fade-in" id="second">
          
-        <div class="col-lg-12" ><a target="_blank" class="btn btn-primary" id="five" href= ".\CV.pdf"  role="button"> Download Resume</br><i class="fa fa-download"  ></i></a></div>
+        <div class="col-xs-12 col-sm-12 col-lg-12" ><a target="_blank" class="btn btn-primary" id="five" href= ".\CV.pdf"  role="button"> Download Resume</br><i class="fa fa-download"  ></i></a></div>
          
     </div>
     
