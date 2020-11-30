@@ -1,0 +1,183 @@
+body{
+    background-image: url("paper.jpg");
+    
+    background-repeat: no-repeat;
+    
+     
+}
+
+
+
+#first{
+   margin-top: 50px;
+  
+  
+   width: 100%;
+}
+ #second{
+   position: absolute;
+   
+   z-index: 1;
+  
+ }
+
+ 
+ #third{
+    position:absolute;
+     
+       
+    animation-name: example3;
+   animation-duration: 1s;
+   animation-fill-mode: forwards;  
+ }
+
+ @keyframes example3 {
+   from {top: 0px;}
+   to {top:200px;}
+ }
+
+ #fourth{
+    position:absolute;
+    
+    
+    animation-name: example4;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;  
+ }
+
+ @keyframes example4 {
+   from {top: 0px;}
+   to {top:400px;}
+ }
+a{
+   transition:0.4s;
+   
+}
+
+a:hover{
+   text-decoration: none;
+    
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+
+
+  
+  .card{
+      max-width:100% !important;
+      height:auto !important;
+  }
+
+
+
+
+  #third{
+    position:absolute;
+     
+       
+    animation-name: example3;
+   animation-duration: 1s;
+   animation-fill-mode: forwards;  
+ }
+
+ @keyframes example3 {
+   from {top: 0px;}
+   to {top:80px;}
+ }
+
+ #fourth{
+    position:absolute;
+    
+    
+    animation-name: example4;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;  
+ }
+
+ @keyframes example4 {
+   from {top: 0px;}
+   to {top:160px;}
+ }
+
+
+  #php {
+  margin-top: 10px !important;
+  margin-bottom:15px !important;
+}
+#ajax {
+  margin-top: 10px !important;
+  margin-bottom:19px !important;
+}
+
+#sass{
+  margin-top: 5px !important;
+  margin-bottom:2px !important;
+}
+#json{
+  margin-top: 13px !important;
+  margin-bottom:15px !important;
+}
+
+#sql{
+  margin-top:5px !important;
+  margin-bottom: 10px !important;
+}
+
+#ard {
+  margin-top:8px !important;
+  margin-bottom: 10px !important;
+}
+}
+#one, #two, #three{
+   text-align: center ;
+   line-height: 35px;
+   border-radius: 4px;
+   width: 120px;
+   height: 40px;
+   transition:0.4s;
+   background-color: rgb(0, 0, 0);
+   opacity:20%;
+  
+  color:white;
+  
+}
+
+#one:hover, #two:hover, #three:hover{
+   color:white;
+   background-color: transparent;
+   opacity:100%;
+} 
+
+
+.card{
+    opacity:70%;
+    transition: 0.5s;
+    
+}
+
+.card:hover{
+   opacity:100%;
+   
+}
+
+ 
+
+ 
+.container{
+
+    position:relative;
+     
+    margin-top:110px;
+     
+    display:none;
+}
+ 
+
+#json, #php, #ajax {
+   margin-top: 35px;
+}
+
+#ard , #sql{
+   margin-top: 30px;
+}
