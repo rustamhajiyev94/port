@@ -75,7 +75,9 @@ a:hover{
     /* For mobile phones: */
   
   
-  
+  #one,#two,#three{
+      width:120%;
+  }
     
     .card{
         max-width:100% !important;
