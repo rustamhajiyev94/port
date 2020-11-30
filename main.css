@@ -68,6 +68,10 @@
         left:30%;
         margin-top:15%;
     }
+
+    #one,#two,#three{
+        width:130%;
+    }
   }
 
 
