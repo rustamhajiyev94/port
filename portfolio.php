@@ -11,16 +11,18 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="row" id="first">
-       <div class="col-lg-7"></div>
-       <div class="col-lg-5 col-12">
-             <div class="row">
-               <div class="col-lg-3 col-2"></div>
-               <div class="col-lg-3 col-3"><a  href="index.php" ><div id="one">Resume</div></a> </div>
-               <div class="col-lg-3 col-3"><a  href="skills.php" ><div id="two">Skills</div></a> </div>
-               <div class="col-lg-3 col-3"><a  href="portfolio.php" ><div id="three">Portfolio</div></a>  </div>
-             
-        </div></div></div>
+<div class="row" id="first">
+<div class="col-lg-7"></div>
+<div class="col-lg-5 col-12">
+      <div class="row">
+        <div class="col-lg-3 col-2"></div>
+        <div class="col-lg-3 col-3"><a  href="index.php" ><div id="one">Resume</div></a> </div>
+        <div class="col-lg-3 col-3"><a  href="skills.php" ><div id="two">Skills</div></a> </div>
+        <div class="col-lg-3 col-3"><a  href="portfolio.php" ><div id="three">Portfolio</div></a>  </div>
+         
+    
+ </div></div></div>
+
 
 
 <div class="container">

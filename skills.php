@@ -113,55 +113,8 @@
            
     </div>
 
-    <div class="row" id="fourth">
-
-         
-
-      <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
-        <img class="card-img-top" src="python.png
-        " alt="Python">
-       
-      </div></div>
-      
-      
-      <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
-        <img  class="card-img-top" src="c.webp
-        " alt="C">
-      
-
-    </div></div>
-
-    <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
-      <img class="card-img-top" src="xml.webp
-      " alt="XML">
-  </div></div>
-
-
-
-    <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
-      <img id="sass" class="card-img-top" src="sass.png" alt="SASS">
     
-
-  </div></div>
-
-
-    <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
-      <img id="ard" class="card-img-top" src="arduino.png" alt="arduino">
-     
-    </div></div>
-
-    
-  
-
-
-    <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
-      <img class="card-img-top" src="Android_logo_2019.png" alt="android">
-
-      
    
-  </div></div>
-       
-</div>
   </div>
 </br>
         
