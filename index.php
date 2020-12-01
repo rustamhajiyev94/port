@@ -40,13 +40,13 @@
                     </div>            
                     
                     <div class="row" align="center">
-                    <div class="col-lg col-md col-3 col-sm"><img src="img/honda.png" alt="honda" height="70%" width="50%"></div>
-                    <div class="col-lg col-md col-2 col-sm"><img src="img/toyota.png" alt="toyota" height="70%" width="50%"></div>
-                    <div class="col-lg col-md col-3 col-sm"><img src="img/mazda.png" alt="mazda" height="70%" width="70%"></div>
+                    <div class="col-lg col-md col-3 col-sm"><img src="honda.png" alt="honda" height="70%" width="50%"></div>
+                    <div class="col-lg col-md col-2 col-sm"><img src="toyota.png" alt="toyota" height="70%" width="50%"></div>
+                    <div class="col-lg col-md col-3 col-sm"><img src="mazda.png" alt="mazda" height="70%" width="70%"></div>
                     
-                    <div class="col-lg col-md col-2 col-sm"><img src="img/mitsubishi.png" alt="mitsubishi" height="70%" width="50%"></div>
+                    <div class="col-lg col-md col-2 col-sm"><img src="mitsubishi.png" alt="mitsubishi" height="70%" width="50%"></div>
                     
-                    <div class="col-lg col-md col-2 col-sm"><img src="img/subaru.png" alt="subaru" height="70%" width="50%"></div>
+                    <div class="col-lg col-md col-2 col-sm"><img src="subaru.png" alt="subaru" height="70%" width="50%"></div>
                     </div>
                 
     </form>
