@@ -65,9 +65,9 @@
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     #second{
-        position:relative;  
-        left:30%;
-        margin-top:15%;
+        position:absolute;  
+        left:27%;
+        margin-top:20%;
     }
 
     #one,#two,#three{
