@@ -21,9 +21,9 @@
         
     </div></div>
     <div class="row fade-in" id="second">
-         
-        <div class="col-12 col-lg" ><a target="_blank" class="btn btn-primary" id="five" href= ".\CV.pdf"  role="button"> Download Resume</br><i class="fa fa-download"  ></i></a></div>
-         
+         <div class="col-4"></div>
+        <div class="col-4 col-lg" ><a target="_blank" class="btn btn-primary" id="five" href= ".\CV.pdf"  role="button"> Download Resume</br><i class="fa fa-download"  ></i></a></div>
+         <div class="col-4"></div>
     </div>
     
         
