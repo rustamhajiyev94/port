@@ -55,8 +55,9 @@
 
  
 #second{
-    margin: 0 auto;
-        margin-top:15%;
+    position:absolute;
+    left:41%;
+    margin-top:15%;
 }
 
 
@@ -67,14 +68,14 @@
   @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     #second{
-
-        
+        position:absolute;
+        left:26%;   
         margin-top:20%;
     }
-
     #one, #two, #three{
         width:120%;
     }
+   
   }
 
  
