@@ -55,9 +55,8 @@
 
  
 #second{
-    position:relative;  
-    left:43%;
-    margin-top:15%;
+    margin: 0 auto;
+        margin-top:15%;
 }
 
 
@@ -68,23 +67,26 @@
   @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     #second{
-     
+
         
         margin-top:20%;
     }
 
-    #one,#two,#three{
-        width:120% !important;
+    #one, #two, #three{
+        width:120%;
     }
   }
 
-
+ 
+ 
 #five{
+   
     border:none;
     background-color: rgb(0, 0, 0);
     opacity:20%;
     width: 250px;
     height:65px;
+    
 }
 
 #five:hover{
