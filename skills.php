@@ -67,7 +67,7 @@
          
 
           <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
-            <img class="card-img-top" src="JQuery.webp" alt="Jquery">
+            <img class="card-img-top" src="jq.webp" alt="Jquery">
            
           </div></div>
           
