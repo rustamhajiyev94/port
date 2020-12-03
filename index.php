@@ -9,17 +9,17 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="row" id="first">
-       <div class=" col-lg-7"></div>
-       <div class="col-12 col-sm-5 col-lg-5">
-             <div class="row">
-                 <div class="col-2 col-sm-3 col-lg-3"></div>
-            <div class="col-3  col-sm-3 col-lg-3"><a  href="index.php" ><div id="one">Resume</div></a> </div>
-            <div class="col-3 col-sm-3 col-lg-3"><a  href="skills.php" ><div id="two">Skills</div></a> </div>
-            <div class="col-3 col-sm-3 col-lg-3"><a  href="portfolio.php" ><div id="three">Portfolio</div></a>  </div>
-             
-        
-    </div></div></div>
+<div class="row" id="first">
+<div class="col-lg-7"></div>
+<div class="col-lg-5 col-12">
+      <div class="row">
+        <div class="col-lg-3 col-2"></div>
+        <div class="col-lg-3 col-3"><a  href="index.php" ><div id="one">Resume</div></a> </div>
+        <div class="col-lg-3 col-3"><a  href="skills.php" ><div id="two">Skills</div></a> </div>
+        <div class="col-lg-3 col-3"><a  href="portfolio.php" ><div id="three">Portfolio</div></a>  </div>
+         
+    
+ </div></div></div>
     <div class="row fade-in " id="second">
         
         <div class="col-12 col-lg" ><a  target="_blank" class="btn btn-primary" id="five" href= ".\CV.pdf"  role="button"> Download Resume</br><i class="fa fa-download"  ></i></a></div>
