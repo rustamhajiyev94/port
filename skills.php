@@ -28,34 +28,34 @@
 <div class="container">
     <div class="row " id="second">
         <div class="col-lg-2 col-2">
-            <div class="card" style="width: 10rem;height:10rem">
+            <div class="card h-100" style="width: 10rem;height:10rem">
                 <img class="card-img-top " src="HTML5.png" alt="HTML5">
                
               </div>
         </div>
-        <div class="col-lg-2 col-2"> <div class="card" style="width: 10rem;height:10rem">
+        <div class="col-lg-2 col-2"> <div class="card h-100" style="width: 10rem;height:10rem">
             <img class="card-img-top" src="CSS3.png" alt="CSS3">
         
           </div></div>
-        <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+        <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
             <img id="php" class="card-img-top" src="php.png" alt="php">
            
           </div></div>
-        <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+        <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
             <img class="card-img-top" src="bootstrap.jpg" alt="Bootstrap">
            
           </div></div>
 
 
           <div class="col-lg-2 col-2">
-            <div class="card" style="width: 10rem;height:10rem">
+            <div class="card h-100" style="width: 10rem;height:10rem">
                 <img class="card-img-top" src="js.png" alt="Javascript">
                
               </div>
         </div>
         
            
-          <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+          <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
             <img id="json" class="card-img-top" src="json-logo.png
             " alt="Json">
            
@@ -66,27 +66,27 @@
 
          
 
-          <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+          <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
             <img class="card-img-top" src="JQuery.webp" alt="Jquery">
            
           </div></div>
           
           
-          <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+          <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
             <img id="ajax" class="card-img-top" src="ajax.jpg
             " alt="AJAX">
           
 
         </div></div>
 
-        <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+        <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
           <img class="card-img-top" src="angular.png
           " alt="AngularJS">
       </div></div>
 
 
 
-        <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+        <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
           <img id="sql"class="card-img-top" src="SQL.png
           " alt="SQL">
         
@@ -94,7 +94,7 @@
       </div></div>
 
 
-        <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+        <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
           <img class="card-img-top" src="wordpress.png" alt="Wordpress">
          
         </div></div>
@@ -103,7 +103,7 @@
       
 
 
-        <div class="col-lg-2 col-2"><div class="card" style="width: 10rem;height:10rem">
+        <div class="col-lg-2 col-2"><div class="card h-100" style="width: 10rem;height:10rem">
           <img class="card-img-top" src="java.png
           " alt="Java">
 

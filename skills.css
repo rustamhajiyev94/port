@@ -86,7 +86,7 @@ a:hover{
   
   .card{
       max-width:100% !important;
-      height:auto !important;
+      
   }
 
 
@@ -121,33 +121,6 @@ a:hover{
  }
 
 
-  #php {
-  margin-top: 10px !important;
-  margin-bottom:15px !important;
-}
-#ajax {
-  margin-top: 10px !important;
-  margin-bottom:19px !important;
-}
-
-#sass{
-  margin-top: 5px !important;
-  margin-bottom:2px !important;
-}
-#json{
-  margin-top: 13px !important;
-  margin-bottom:15px !important;
-}
-
-#sql{
-  margin-top:5px !important;
-  margin-bottom: 10px !important;
-}
-
-#ard {
-  margin-top:8px !important;
-  margin-bottom: 10px !important;
-}
 
 #one,#two,#three{
   width:120%;
@@ -181,9 +154,9 @@ a:hover{
  
 
 #json, #php, #ajax {
-   margin-top: 35px;
+   margin-top: 15px;
 }
 
-#ard , #sql{
-   margin-top: 30px;
+ #sql{
+   margin-top: 10px;
 }
