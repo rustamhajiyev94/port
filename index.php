@@ -19,10 +19,10 @@
             <div class="col-3 col-sm-3 col-lg-3"><a  href="portfolio.php" ><div id="three">Portfolio</div></a>  </div>
              
         
-    </div></div>
-    <div class="row fade-in" id="second">
+    </div></div></div>
+    <div class="row fade-in " id="second">
         
-        <div class="col-12 col-lg" ><a target="_blank" class="btn btn-primary" id="five" href= ".\CV.pdf"  role="button"> Download Resume</br><i class="fa fa-download"  ></i></a></div>
+        <div class="col-12 col-lg" ><a  target="_blank" class="btn btn-primary" id="five" href= ".\CV.pdf"  role="button"> Download Resume</br><i class="fa fa-download"  ></i></a></div>
          
     </div>
     
